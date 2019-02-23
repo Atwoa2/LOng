@@ -1,0 +1,7 @@
+E:\__Repozit__\LOng\Long\bin\Debug\Long.exe.config
+E:\__Repozit__\LOng\Long\bin\Debug\Long.exe
+E:\__Repozit__\LOng\Long\bin\Debug\Long.pdb
+E:\__Repozit__\LOng\Long\obj\Debug\Long.csprojAssemblyReference.cache
+E:\__Repozit__\LOng\Long\obj\Debug\Long.csproj.CoreCompileInputs.cache
+E:\__Repozit__\LOng\Long\obj\Debug\Long.exe
+E:\__Repozit__\LOng\Long\obj\Debug\Long.pdb
